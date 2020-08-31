@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iñigo</h1>
-<h3 align="center">A passionate software engineer from Spain</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" 
 height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" 
