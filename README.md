@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋,   I'm Iñigo</h1>
-<h3 align="center">A passionate Software Engineer & Machine Learning Researcher</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/inigoreiriz" target="blank"><img align="center" 
